@@ -30,9 +30,9 @@ I'm a passionate Computer Science student at Northeastern University with hands-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 💼 Current Role
+## 💼 Previous Role
 
-**Software Engineer @ NExT w/ Verizon** *(January 2025 - Present)*
+**Software Engineer @ NExT w/ Verizon** *(January 2025 - July 2025)*
 - Engineering AWS data pipelines for customer churn analysis
 - Implementing Agile methodologies for on-time project delivery
 - Collaborating with cross-functional teams to reduce customer churn
