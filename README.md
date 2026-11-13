@@ -7,7 +7,7 @@
 
 ## 🎓 About Me
 
-I'm a passionate Computer Science student at Northeastern University with hands-on experience in software engineering, data pipelines, and full-stack development. Currently working as a Software Engineer at Smartleaf, where I build porfolio rebalancing software to democratize investment strategies.
+I'm a passionate Computer Science student at Northeastern University with hands-on experience in software engineering, data pipelines, and full-stack development. I last worked as a Software Engineer at Smartleaf, where I built porfolio rebalancing software for advisors managing $90B+ in assets!
 
 ## 🛠️ Technical Skills
 
